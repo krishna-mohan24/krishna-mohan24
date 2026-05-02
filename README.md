@@ -1,4 +1,4 @@
-# Hey, I'm [Your Name] 👋
+# Hey, I'm Krishna Mohan Rallabandi 👋
 Full-stack developer who builds things that scale. Java by trade, Python by curiosity.
 
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
