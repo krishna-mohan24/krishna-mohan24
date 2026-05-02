@@ -19,14 +19,8 @@ Right now I'm expanding into Python and FastAPI, exploring how it complements my
 - 🟢 Building a microservices project with FastAPI + Kafka + Redis for async job processing
 - 🟢 Exploring Python for data pipelines alongside my existing Spring Boot services
 
-## Featured project
-### 🔧 [Your Project Name]
-[2–3 sentences: what it does, why you built it, what problem it solves. Be specific.]
-
-`Spring Boot` `Kafka` `Redis` `Angular` `AWS ECS`
-
 ## Get in touch
 Open to contracts, consulting, and interesting problems.
 
-📧 you@email.com  
-💼 [linkedin.com/in/yourhandle](https://linkedin.com/in/yourhandle)
+📧 rkrishnamohan2498@gmail.com  
+💼 https://www.linkedin.com/in/km-r
