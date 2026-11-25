@@ -1,26 +1,44 @@
-# Hey, I'm Krishna Mohan Rallabandi 👋
-Full-stack developer who builds things that scale. Java by trade, Python by curiosity.
+# Hi, I'm Krishna 👋
 
-![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
-![Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+**Senior Software Engineer** building production agentic AI platforms and Python backends on GCP, AWS and Azure.
 
-## About me
-I build robust backend systems and clean frontends — the kind that hold up when things get complicated. Most of my work lives at the intersection of distributed systems, async messaging, and APIs that don't fall over.
+I'm currently leading two greenfield AI audit platforms (teams of 5 and 3) and shipping each application end to end, from LLM agents and APIs to the frontend and cloud infrastructure. One is in production and cut audit turnaround from 30+ minutes on-site to 5–8 minutes per video.
 
-Right now I'm expanding into Python and FastAPI, exploring how it complements my Java stack for certain use cases. I'm open to freelance and contract work, especially if your system needs to handle real load.
+## 🧰 Tech stack
 
-## What I'm working on
-- 🟢 Building a microservices project with FastAPI + Kafka + Redis for async job processing
-- 🟢 Exploring Python for data pipelines alongside my existing Spring Boot services
+**Languages & frontend**
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/-Java-007396?logo=openjdk&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?logo=angular&logoColor=white)
 
-## Get in touch
-Open to contracts, consulting, and interesting problems.
+**AI & agents**
+Google ADK · LangChain · Spring AI · Gemini / Vertex AI · Azure AI Foundry · RAG · LLM pipelines · Tool calling · Agent evaluations · Prompt engineering
 
-📧 rkrishnamohan2498@gmail.com  
-💼 https://www.linkedin.com/in/km-r
+**Backend & data**
+FastAPI · Pydantic · SQLAlchemy · asyncio · Spring Boot · REST · GraphQL · Kafka · IBM MQ · Redis · Stripe · ELK (Elasticsearch) · PostgreSQL · MySQL · MongoDB · Flyway
+
+**Cloud**
+- **GCP:** Cloud Run, Pub/Sub, Vertex AI, Cloud SQL, Cloud Storage, Secret Manager, Cloud Build
+- **AWS:** Lambda, Step Functions, ECS Fargate, EKS, API Gateway, SQS, Cognito, ElastiCache
+- **Azure:** Container Apps, AI Foundry, API Management, Static Web Apps, Key Vault, Application Insights
+
+**DevOps & testing**
+Terraform · Docker · Kubernetes · Helm · GitHub Actions · Azure DevOps · Jenkins · pytest · JUnit
+
+## 🔭 What I've been building
+- **AI audit platforms:** Python LangChain and Google ADK agents (Gemini on Vertex AI, LLMs on Azure AI Foundry) that review audit videos and return structured, validated findings, served through FastAPI with React frontends.
+- **MuleSoft-to-AWS migration:** Owned 3 of 7 deployment waves in a 22-engineer program, delivering 10 microservices with zero production incidents.
+- **Payments:** Owned the Stripe Checkout integration for an app store end to end.
+- **[Springboot-RAG](https://github.com/krishna-mohan24/Springboot-RAG):** End-to-end RAG pipeline (ingestion, chunking, embeddings, retrieval) served as a Spring Boot REST API.
+
+## 🎓 Education & certifications
+- M.S. Computer Science, Syracuse University
+- B.Tech Computer Science, JNTU
+- Generative AI with Large Language Models (DeepLearning.AI, AWS) · Advanced Prompt Engineering for Everyone (Vanderbilt) · Generative AI: Prompt Engineering Basics (IBM)
+
+## 📫 Find me
+[LinkedIn](https://www.linkedin.com/in/km-r)
